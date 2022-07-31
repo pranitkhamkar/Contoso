@@ -1,0 +1,23 @@
+{
+  "name": "contoso",
+  "version": "1.0.0",
+  "description": "exam question paper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranitkhamkar/Contoso.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranitkhamkar/Contoso/issues"
+  },
+  "homepage": "https://github.com/pranitkhamkar/Contoso#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
